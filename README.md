@@ -347,6 +347,7 @@ int main() {
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+  
 #Program:
 ```
 #include <stdio.h>
